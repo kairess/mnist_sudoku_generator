@@ -9,8 +9,8 @@ Project contains:
   
 Have fun :)  
   
-Used [MNIST Database](http://yann.lecun.com/exdb/mnist/) for generating sudoku board.  
-  
+Used [MNIST Database](http://yann.lecun.com/exdb/mnist/) for displaying number images.  
+Used [python-sudoku-generator-solver](https://github.com/JoeKarlsson/python-sudoku-generator-solver) for generating sudoku puzzles  
   
 
 # Requirement
